@@ -1,0 +1,11 @@
+****************
+Tablica Wynikow!
+****************
+
+Patryk 5 0
+Adrian 5 3
+Patryk 5 3
+Patryczek 6 2
+Patryk 6 2
+Patryk 5 1
+Patrykson 5 3
